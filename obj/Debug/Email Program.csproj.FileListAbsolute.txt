@@ -1,0 +1,9 @@
+c:\users\mimi\documents\visual studio 2015\Projects\Email Program\Email Program\bin\Debug\Email Program.exe.config
+c:\users\mimi\documents\visual studio 2015\Projects\Email Program\Email Program\bin\Debug\Email Program.exe
+c:\users\mimi\documents\visual studio 2015\Projects\Email Program\Email Program\bin\Debug\Email Program.pdb
+c:\users\mimi\documents\visual studio 2015\Projects\Email Program\Email Program\obj\Debug\Email Program.csprojResolveAssemblyReference.cache
+c:\users\mimi\documents\visual studio 2015\Projects\Email Program\Email Program\obj\Debug\Email_Program.Form1.resources
+c:\users\mimi\documents\visual studio 2015\Projects\Email Program\Email Program\obj\Debug\Email_Program.Properties.Resources.resources
+c:\users\mimi\documents\visual studio 2015\Projects\Email Program\Email Program\obj\Debug\Email Program.csproj.GenerateResource.Cache
+c:\users\mimi\documents\visual studio 2015\Projects\Email Program\Email Program\obj\Debug\Email Program.exe
+c:\users\mimi\documents\visual studio 2015\Projects\Email Program\Email Program\obj\Debug\Email Program.pdb
